@@ -3,7 +3,7 @@ It describes the variables, the data, and any transformations or work that was p
 
 # Origin and scope of data
 
-Human Activity Recognition Using Smartphones Dataset
+## Human Activity Recognition Using Smartphones Dataset
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
